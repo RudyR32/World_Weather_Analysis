@@ -5,7 +5,7 @@ This repository contains the files used in Module 6.  This module primarily cent
 Answer this question using Pandas methods: How many cities have recorded rainfall or snow?<br/>
 58 cities has recorded rain and 21 cities have recored snow in the last 3 hours.(At the time this analysis was run)
 ### Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
-The client criteria were a city with a temperature between 60 and 90 degrees Fahrenheit that had not rained or snowed in the last 3 hours.<br/>
+The client criteria were a city with a temperature between 60 and 90 degrees Fahrenheit that had not rained or snowed in the last 3 hours.
 <br/>
 Below is the map of the cities that meet this criteria.<br/>
 ![WeatherPy_vacation_map](https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
