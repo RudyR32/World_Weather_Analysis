@@ -23,4 +23,6 @@ This map shows the pop outs that current weather as well as providing a hotel re
 [Weather Database](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Weather_Database.ipynb)<br />
 [Vacation Search](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Vacation_Search.ipynb)<br />
 [Vacation Itinerary](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Vacation_Itinerary.ipynb)<br />
-
+## Additional Material
+The below folder contains other dataframes and images that were created during the challenge and module.(br/ >
+[Weather Data](https://github.com/RudyR32/World_Weather_Analysis/tree/master/weather_data)
