@@ -1,5 +1,6 @@
 # World_Weather_Analysis
-This repository contains the files used in Module 6.  This module primarily centered around APIs and gmaps.
+## Project Overview
+This repository contains the files used in Module 6.  This module primarily centered around APIs and gmaps.  For the challenge we created created several maps and preformed analysis for the PlanMyTrip app.
 ## Challenge
 ### Part 1: Get the Weather Description and Amount of Precipitation for Each City
 Answer this question using Pandas methods: How many cities have recorded rainfall or snow?<br/>
