@@ -11,9 +11,16 @@ Below is the map of the cities that meet this criteria.<br/>
 ![WeatherPy_vacation_map](https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
 
 ### Part 3: Create a Travel Itinerary with a Corresponding Map
-
+The client decided to travel in the the Gulf region of the United States. Two maps were created to help them with theur travels.
+<br/>
+This first map shows the route between the 5 cities.
+![WeatherPy_travel_map](https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map.png)
+<br/>
+This map shows the pop outs that current weather as well as providing a hotel recommendation.
+![WeatherPy_travel_map_markers](https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map_markers.png)
+<br/>
 ## Vacation Analysis Files for Challenge
 [Weather Database](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Weather_Database.ipynb)<br />
 [Vacation Search](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Vacation_Search.ipynb)<br />
 [Vacation Itinerary](https://github.com/RudyR32/World_Weather_Analysis/blob/master/Vacation_Itinerary.ipynb)<br />
-## Images 
+
