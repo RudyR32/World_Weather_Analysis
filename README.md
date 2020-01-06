@@ -8,7 +8,7 @@ Answer this question using Pandas methods: How many cities have recorded rainfal
 The client criteria were a city with a temperature between 60 and 90 degrees Fahrenheit that had not rained or snowed in the last 3 hours.<br/>
 <br/>
 Below is the map of the cities that meet this criteria.<br/>
-!(https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map](https://github.com/RudyR32/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
 
 ### Part 3: Create a Travel Itinerary with a Corresponding Map
 
